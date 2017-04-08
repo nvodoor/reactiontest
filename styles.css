@@ -1,0 +1,30 @@
+
+            #one {
+                background-color: blue;
+            }
+            
+            #two {
+                background-color: red;
+            }
+            
+            #three {
+                background-color: yellow;
+            }
+        
+            .circle {
+                margin: 40px 40px 40px 40px;
+                padding: 10px 10px 10px 10px;
+                width: 100px;
+                height: 100px;
+                float: left;
+               
+            }
+            
+            h1 {
+                font-size: 300%;
+            }
+            
+            #bolded {
+                font-weight: bold;
+            }
+        
